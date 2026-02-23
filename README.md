@@ -6,7 +6,7 @@ API REST para gestión de tareas y sub-items (todo list).
 
 ## Stack
 
-- PHP 8.1+
+- PHP 8.2
 - Laravel 10
 - PostgreSQL 15
 
